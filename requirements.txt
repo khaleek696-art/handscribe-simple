@@ -1,0 +1,9 @@
+# ── Deployment requirements ────────────────
+streamlit
+Pillow
+numpy
+easyocr
+pytesseract
+opencv-python-headless
+torch
+torchvision
